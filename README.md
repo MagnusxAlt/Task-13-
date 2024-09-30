@@ -23,7 +23,7 @@ Step 3: SSH into the AWS VM
 
 Used SSH to connect to the EC2 instance:
   
-sudo ssh -i ~/Documents/cloudkey.pem ec2-user@34.230.49.137
+sudo ssh -i ~/Documents/cloudkey.pem ec2-user@(public ip address)
 
 Successfully logged into the VM.
 
