@@ -14,8 +14,8 @@ Public IP: 34.230.49.137
 Step 2: Ping the VM from Kali Linux
 
 From my Kali Linux terminal, I attempted to ping the public IP of the AWS VM to check if it's reachable.
-
-`ping (public IPV4)`
+```bash```
+          ```ping (public IPV4)```
 
 Took a screenshot of the successful ping response.
 
