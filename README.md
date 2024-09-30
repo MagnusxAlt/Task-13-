@@ -33,7 +33,7 @@ Step 4: Run ip a Command on the VM
 
 Ran the ip a command on the VM to display the network interfaces and IP addresses.
       
-```ip a```
+`ip a`
 
 Took a screenshot of the command output showing the IP addresses.
 
@@ -41,11 +41,11 @@ Step 5: Ping Public IP from the AWS VM
 
 Attempted to ping the public IP from the AWS VM to test outbound connectivity:
 
-```ping (public IPV4)```
+`ping (public IPV4)`
 
 Step 6: Shutdown and Terminate the VM
 
 Shutdown the VM once done:
 
-```sudo shutdown - h now```
+`sudo shutdown - h now`
 After ensuring the VM is stopped, went to the AWS EC2 console and terminated the instance to free up resources.
