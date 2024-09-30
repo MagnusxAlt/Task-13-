@@ -9,7 +9,7 @@ Chose t2.micro instance type (free tier eligible).
 Configured the instance with default settings and created a key pair for SSH access.
 Allowed inbound traffic (SSH on port 22) by editing the security group.
 Launched the EC2 instance and noted down the Public IPv4 Address.
-Public IP: 34.230.49.137
+Public IP: your public ip addresss of the cloud 
 
 Step 2: Ping the VM from Kali Linux
 
